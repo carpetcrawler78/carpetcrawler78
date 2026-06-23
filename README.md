@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Thomas.<br><br>Background in biomedical research and clinical data management.<br>Currently transitioning into AI Engineering / Data Science with a strong interest in healthcare and applied ML.<br><br>- Currently working on end-to-end data and ML projects<br>- Looking to collaborate on health-tech, NLP, and machine learning applications<br>- Looking for help with deployment, MLOps basics, and production-oriented workflows<br>- Currently learning applied machine learning, RAG pipelines, evaluation, and software engineering for data products
+Hi, I'm Thomas.<br><br>I have a background in biomedical research and clinical data management.<br>Currently transitioning into AI Engineering / Data Science with a strong interest in healthcare and applied ML.<br><br>- Finished Neue Fische bootcamp (AI Engineering), with two capstone projects. <br>- Looking to collaborate on health-tech, NLP, and machine learning applications, deployment, and production-oriented workflows<br>
 
 
 # 💻 Tech Stack:
