@@ -101,12 +101,6 @@ The project included:
 - retrieval evaluation
 - LLM-supported biomedical question answering
 
-### Tumor Classification
-
-A healthcare machine-learning project focused on supervised classification and evaluation using structured biomedical data.
-
-[![Tumor Classification](https://img.shields.io/badge/Tumor%20Classification-Healthcare%20ML-2E8B57?style=for-the-badge&logo=github)](https://github.com/carpetcrawler78/tumor-classification)
-
 ### Agentic Workflows
 
 Experimental work with LLM-supported automation and agent-oriented workflows.
@@ -118,6 +112,7 @@ Experimental work with LLM-supported automation and agent-oriented workflows.
 These repositories document selected bootcamp exercises and continued learning. They are separate from the two main capstone projects.
 
 [![RAG Workshop](https://img.shields.io/badge/RAG%20Workshop-Coursework%20%26%20Practice-8A2BE2?style=for-the-badge&logo=github)](https://github.com/carpetcrawler78/ds-RAG)
+[![Tumor Classification](https://img.shields.io/badge/Tumor%20Classification-Healthcare%20ML-2E8B57?style=for-the-badge&logo=github)](https://github.com/carpetcrawler78/tumor-classification)
 
 ## GitHub Statistics
 
